@@ -1,7 +1,21 @@
 package tests;
 
-public class CreateUser {
+import org.testng.annotations.Test;
+
+public class CreateUser 
+{
 	
+	@Test
+	public void addUser()
+	{
+		
+	}
+	
+	@Test
+	public void deleteUser()
+	{
+		
+	}
 	
 
 }
