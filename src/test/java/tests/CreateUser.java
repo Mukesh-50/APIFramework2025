@@ -10,6 +10,18 @@ public class CreateUser
 	{
 		
 	}
+
+	@Test
+	public void addUser1()
+	{
+		
+	}
+
+	@Test
+	public void addUser2()
+	{
+		
+	}
 	
 	@Test
 	public void updateUser() {
@@ -18,6 +30,12 @@ public class CreateUser
 	
 	@Test
 	public void deleteUser()
+	{
+		
+	}
+
+	@Test
+	public void addUser3()
 	{
 		
 	}
