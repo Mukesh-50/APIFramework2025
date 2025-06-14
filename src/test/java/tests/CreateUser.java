@@ -8,7 +8,11 @@ public class CreateUser
 	@Test
 	public void addUser()
 	{
-		
+		System.out.println("Mukesh Otwani");
+
+		System.out.println("Suresh Otwani");
+
+		System.out.println("Naresh Otwani")
 	}
 
 	@Test
