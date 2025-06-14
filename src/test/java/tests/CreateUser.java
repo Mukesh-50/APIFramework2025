@@ -29,6 +29,11 @@ public class CreateUser
 	}
 	
 	@Test
+	public void modifyUser() {
+		
+	}
+	
+	@Test
 	public void deleteUser()
 	{
 		
