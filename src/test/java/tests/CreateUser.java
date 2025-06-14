@@ -8,9 +8,16 @@ public class CreateUser
 	@Test
 	public void addUser()
 	{
+
 		System.out.println("I am user1");
-		System.out.println("added");
+	
 		System.out.println("hello");
+
+		System.out.println("Mukesh Otwani");
+
+
+		System.out.println("Naresh Otwani")
+
 	}
 
 	@Test
