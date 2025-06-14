@@ -12,10 +12,16 @@ public class CreateUser
 	}
 	
 	@Test
+	public void updateUser() {
+		
+	}
+	
+	@Test
 	public void deleteUser()
 	{
 		
 	}
+	
 	
 
 }
